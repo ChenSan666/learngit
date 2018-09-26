@@ -5,3 +5,4 @@ function test() {
 
 test();
 test();
+RTCPeerConnectionIceErrorEvent
