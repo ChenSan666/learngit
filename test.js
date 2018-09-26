@@ -4,5 +4,5 @@ function test() {
 }
 
 test();
+test();
 RTCPeerConnectionIceErrorEvent
-xixi
