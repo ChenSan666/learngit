@@ -1,8 +1,6 @@
 function test() {
-	console.log('test');
-	console.log(2);
+  console.log('test');
+  console.log(2);
 }
-xxxx
 test();
 test();
-RTCPeerConnectionIceErrorEvent
